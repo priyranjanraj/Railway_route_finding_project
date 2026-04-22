@@ -81,6 +81,5 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ## Contact
 
 Project Owner: Priyranjan Raj
-Email: priyranjanraj108@outlook.com
-LinkedIn/GitHub: Priy7367
-   
+Email: priyranjanraj108@g.comail.com
+LinkedIn/GitHub: Priyranjanraj/priyranjanraj
